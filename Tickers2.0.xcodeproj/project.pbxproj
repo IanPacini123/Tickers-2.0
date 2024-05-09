@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		DDB468CC2BED643E00F061D3 /* Tickers2_0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB468CB2BED643E00F061D3 /* Tickers2_0App.swift */; };
 		DDB468CE2BED643E00F061D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB468CD2BED643E00F061D3 /* ContentView.swift */; };
-		DDB468D02BED643E00F061D3 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB468CF2BED643E00F061D3 /* Item.swift */; };
 		DDB468D22BED644000F061D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDB468D12BED644000F061D3 /* Assets.xcassets */; };
 		DDB468D62BED644000F061D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDB468D52BED644000F061D3 /* Preview Assets.xcassets */; };
 		DDB468E02BED644000F061D3 /* Tickers2_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB468DF2BED644000F061D3 /* Tickers2_0Tests.swift */; };
@@ -38,7 +37,6 @@
 		DDB468C82BED643E00F061D3 /* Tickers2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tickers2.0.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDB468CB2BED643E00F061D3 /* Tickers2_0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tickers2_0App.swift; sourceTree = "<group>"; };
 		DDB468CD2BED643E00F061D3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		DDB468CF2BED643E00F061D3 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		DDB468D12BED644000F061D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDB468D32BED644000F061D3 /* Tickers2_0.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Tickers2_0.entitlements; sourceTree = "<group>"; };
 		DDB468D52BED644000F061D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -99,7 +97,6 @@
 			children = (
 				DDB468CB2BED643E00F061D3 /* Tickers2_0App.swift */,
 				DDB468CD2BED643E00F061D3 /* ContentView.swift */,
-				DDB468CF2BED643E00F061D3 /* Item.swift */,
 				DDB468D12BED644000F061D3 /* Assets.xcassets */,
 				DDB468D32BED644000F061D3 /* Tickers2_0.entitlements */,
 				DDB468D42BED644000F061D3 /* Preview Content */,
@@ -263,7 +260,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDB468CE2BED643E00F061D3 /* ContentView.swift in Sources */,
-				DDB468D02BED643E00F061D3 /* Item.swift in Sources */,
 				DDB468CC2BED643E00F061D3 /* Tickers2_0App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
