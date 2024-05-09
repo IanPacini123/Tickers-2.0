@@ -14,6 +14,5 @@ struct Tickers2_0App: App {
         WindowGroup {
             ContentView()
         }
-        .modelContainer(sharedModelContainer)
     }
 }
